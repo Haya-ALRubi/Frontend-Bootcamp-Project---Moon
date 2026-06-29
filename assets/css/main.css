@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+.header{
+    padding: 21.84px 0;
+}
+.container{
+    width: calc(100% - 330px);
+    margin: auto;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.menu ul{
+    display: flex;
+    gap: 60px;
+}
+.menu a{
+    color: #3A3845;
+
+}
+.icons ul{
+    display: flex;
+    gap: 24px;
+}
+.collections{
+    display: flex;
+    gap: 30px;
+    text-align: center;
+    text-transform: uppercase;
+}
+.collection img{
+    width: 255px;
+}
