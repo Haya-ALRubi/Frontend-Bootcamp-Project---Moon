@@ -59,7 +59,7 @@ a{
 .hero{
     height: 642px;
     padding: 0 165px;
-    background-image: url('../imgs/herobanner.png');
+    background-image: url('../imgs/herobanner.webp');
 }
 .content{
     display: flex;
@@ -82,7 +82,7 @@ a{
     font-weight: 400;
 }
 .btn{
-     display: flex;
+    display: flex;
     align-items: center;
     justify-content: center;
     width: 100%;
